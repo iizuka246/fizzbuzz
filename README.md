@@ -7,7 +7,8 @@
 
 # Requirement
 
-Visual stadio2019、C# 、.Net Core
+*Visual stadio2019
+*C# .Net Core
 
 # Installation
 
