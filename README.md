@@ -6,8 +6,10 @@
 ![image](https://user-images.githubusercontent.com/80760458/117390364-fcd06300-af28-11eb-99dd-b6903ba8a13c.png)
 
 # Requirement
+
 Visual stadio2019
-C# .Net Core
+C# 
+.Net Core
 
 # Installation
 
