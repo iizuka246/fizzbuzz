@@ -7,6 +7,9 @@
 
 # Requirement
 Visual stadio2019
+C# .Net Core
 
 # Installation
+
+Visual stadio2019
 https://visualstudio.microsoft.com/ja/downloads/
